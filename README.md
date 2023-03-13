@@ -1,8 +1,7 @@
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
+  <img src="src="https://giphy.com/embed/YatrMUJa1N6P6" width="100">
 </div>
-
 
 
 Here are some ideas to get you started:

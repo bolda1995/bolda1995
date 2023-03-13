@@ -40,4 +40,4 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
 </div>
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bolda1995)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bolda1995)

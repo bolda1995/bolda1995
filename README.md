@@ -1,6 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%"/>
-</div>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
   
 
 Here are some ideas to get you started:

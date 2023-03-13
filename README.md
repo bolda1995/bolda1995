@@ -19,6 +19,6 @@
    </a>
  </p>
 </div>
-- :telescope: I’m study at software engineering.<br> I want to create a web application on python and javascript, typescript.<br> I also like machine learning
+- :telescope: I’m study at software engineering.<br> I want to create a web application on python and javascript, typescript.<br> I also like machine learning<br>
 - :seedling: Exploring Technical Content Writing.
 

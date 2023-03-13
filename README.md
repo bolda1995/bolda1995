@@ -13,9 +13,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-
-- 🔭 I’m currently working on ...
+<div>
+  <p>
+     <a>Hi i'm Oleg </a>
+     <a> I'm python developer at student MGTU name of Bauman</a>
+ </p>
+</div>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

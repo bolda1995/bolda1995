@@ -37,7 +37,3 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
 </div>
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolda1995&theme=dark&background=000000)](https://git.io/streak-stats)

@@ -37,3 +37,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolda)](https://github.com/anuraghazra/github-readme-stats)

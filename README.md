@@ -9,6 +9,8 @@
    <div align="center">
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     </div>
+    
+### :woman_technologist: About Me :
 <div>
   <p>
      <a>
@@ -16,7 +18,7 @@
       I'm python developer at student MGTU name of Bauman <br>
    </a>
  </p>
-
 </div>
-
+- :telescope: I’m study at software engineering.<br> I want to create a web application on python and javascript, typescript.<br> I also like machine learning
+- :seedling: Exploring Technical Content Writing.
 

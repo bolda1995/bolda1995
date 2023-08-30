@@ -1,40 +1,29 @@
+# Привет! 👋 Я Олег
 
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1 align="center">
-  hey there i'm Oleg 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-   <div align="center">
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-    </div>
-    
-### :woman_technologist: About Me :
-<div>
-  <p>
-     <a>
-      Hi i'm Oleg<br>
-      I'm python developer at student MGTU name of Bauman <br>
-   </a>
- </p>
-</div>
-- :telescope: I’m study at software engineering.<br> I want to create a web application on python and javascript, typescript.<br> I also like machine learning<br>
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on ,HackerRank and read tech articles.
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="HTML5" aly="HTML"  width="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="HTML5" aly="HTML" width="40"/>&nbsp;
-</div>
+---
+
+В этом аккаунте я демонстрирую свои проекты и экспертизу в разработке веб-сервисов и RESTful API. С течением времени я изучал и использовал разнообразные технологии, чтобы делать свои проекты максимально эффективными и адаптированными к современным требованиям.
+
+## Технологии, которые я использую в своей работе:
+
+- 🟩 **JavaScript (JS) & TypeScript**: Языки программирования, которые лежат в основе многих современных веб-приложений.
+- 🐍 **Python**: Использую для backend-разработки и создания RESTful API, особенно с фреймворками Django, FastAPI и Flask.
+- 📜 **HTML/CSS**: Основа любой веб-страницы, которую я создаю, дополняется фреймворком Bootstrap для быстрой и адаптивной верстки.
+- ☕ **Java Spring**: Мощная платформа для создания корпоративных приложений и микросервисов.
+- 📄 **SOAP**: Протокол обмена структурированной информацией в реализации веб-сервисов.
+- 🍃 **MongoDB**: Использую эту нереляционную базу данных для проектов, где требуется гибкость и производительность.
+- 🐘 **PostgreSQL**: Одна из моих любимых реляционных баз данных благодаря её производительности и надежности.
+- 🛢️ **MySQL**: Широко распространенная реляционная база данных, которую я также часто использую в своих проектах.
+- 💌 **RabbitMQ**: Для асинхронной работы и обработки задач в реальном времени.
+- 🐳 **Docker**: Все мои проекты контейнеризованы, что обеспечивает их легкость в развертывании и масштабировании.
+- ⚓ **Kubernetes (K8s)**: Использую для управления и оркестрации контейнерами в различных облачных средах.
+
+
+
+## Связь со мной
+
+- 📧 Электронная почта: [ваша_почта@email.com](mailto:ваша_почта@email.com)
+
+
+Спасибо за посещение моего профиля.
 
